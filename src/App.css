@@ -46,6 +46,7 @@
   border-radius: 50px;
   background-color: lightcyan;
   margin-top: 5px;
+  outline: none;
 }
 .buttonContainer {
   height: 340px;
